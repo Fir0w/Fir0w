@@ -1,16 +1,13 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 , I'm Fir0w</h1>
+<h3 align="center">Self-Taught Full stack Developer with a Mechanical Engineering Degree</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fir0w&style=for-the-badge" alt="fir0w" > </p>
 
-<!--
-**Fir0w/Fir0w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🖥️ Main Stack:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| Category               | Stack                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+| ---------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frontend               | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=for-the-badge) ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=for-the-badge) ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white&style=for-the-badge) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![ReactNative](https://img.shields.io/badge/ReactNative-262261?logo=ReactNative&logoColor=white&style=for-the-badge) |
+| Backend                | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=Node.js&logoColor=white&style=for-the-badge) ![Express](https://img.shields.io/badge/Express-000000?logo=Express&logoColor=white&style=for-the-badge)            
+| Database               | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=MongoDB&logoColor=white&style=for-the-badge) ![IndexedDB](https://img.shields.io/badge/IndexedDB-0170CE?logo=IndexedDB&logoColor=white&style=for-the-badge)
