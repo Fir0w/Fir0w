@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Fir0w</h1>
-<h3 align="center">Self-Taught Full stack Developer with a Mechanical Engineering Degree</h3>
+<h3 align="center">Full Stack Developer with a Degree in Mechanical Engineering</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fir0w&style=for-the-badge" alt="fir0w" > </p>
 
 ---
