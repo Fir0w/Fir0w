@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋 , I'm Fir0w</h1>
-<h3 align="center">Full Stack Developer with a Degree in Mechanical Engineering</h3>
+<h3 align="center">Mechanical Design Engineer and an Indie Web developer</h3>
 
 ---
 
